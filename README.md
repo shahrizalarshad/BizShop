@@ -4,3 +4,5 @@ BizShop is an innovative e-commerce platform designed specifically to empower st
 The platform is tailored to meet the unique needs of student sellers, offering tools and resources to help them succeed, including marketing tips, analytics, and customer support. BizShop not only enables students to earn money but also helps them develop essential business skills, build a network of like-minded entrepreneurs, and gain real-world experience in e-commerce.
 
 With a focus on affordability, convenience, and community, BizShop is the go-to destination for students looking to turn their ideas and passions into profitable ventures. Whether you're a student looking to buy unique products from your peers or one eager to start your own online store, BizShop is the platform that makes it all possible.
+
+Here is the link : https://bizshop.pptt.my/
