@@ -6,3 +6,6 @@ The platform is tailored to meet the unique needs of student sellers, offering t
 With a focus on affordability, convenience, and community, BizShop is the go-to destination for students looking to turn their ideas and passions into profitable ventures. Whether you're a student looking to buy unique products from your peers or one eager to start your online store, BizShop is the platform that makes it all possible.
 
 Link: https://bizshop.pptt.my/
+
+![Screenshot 2024-08-09 at 1 23 41 AM](https://github.com/user-attachments/assets/e86663fd-759b-41a6-923f-5f9daa320cdb)
+![Screenshot 2024-08-09 at 1 23 07 AM](https://github.com/user-attachments/assets/0516450c-19ff-42a5-a99e-6be0b6c9f9ea)
